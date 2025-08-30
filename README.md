@@ -5,6 +5,8 @@ The **Healthcare Translation Web App** is a web-based prototype designed to faci
 
 This README provides an overview of the project's **code structure**, **frameworks used**, **APIs integrated**, and **AI tools** employed. The app is deployed on **Render** and uses the **Llama 3-70b-8192 model** for translation.
 
+**Live Demo:** [https://health-translation-app.onrender.com/](https://health-translation-app.onrender.com/)
+
 ---
 
 ## Code Structure
