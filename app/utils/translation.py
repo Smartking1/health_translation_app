@@ -17,7 +17,7 @@ def translate_text(text, target_language):
         # Call the Groq API
         response = client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
-            model="llama3-70b-8192"
+            model="llama-3.1-8b-instant"
         )
 
         # Extract and return the translated text
